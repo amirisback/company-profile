@@ -1,5 +1,5 @@
 ## company-profile-playstore-template
-![](https://raw.githubusercontent.com/amirisback/company-profile-playstore-template/main/docs/image/screen-shot.png?raw=true)
+![](docs/image/screen-shoot.png?raw=true)
 
 - Template Website For Play Store
 - App-ads.txt include
