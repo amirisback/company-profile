@@ -1,5 +1,5 @@
 ![](docs/image/screen-shoot.png?raw=true)
-## company-profile-playstore-template
+## Company Profile Website
 - Template Website For Play Store
 - App-ads.txt include
 - Privacy Policy include
